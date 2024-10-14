@@ -14,7 +14,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂05 quy luật của lập trình viên được cho là bất biến trong dòng chảy thời đại:05 quy luật của lập trình viên được cho là bất biến trong dòng chảy thời đại:
+### 😂05 quy luật của lập trình viên được cho là bất biến trong dòng chảy thời đại:
 ### #01: Dev phải thoát mình ra khỏi động cơ truy cầu danh lợi
 ### #02: Dev phải tu tâm dưỡng tánh, bỏ thói cao ngạo
 ### #03: Dev phải tự tiết chế, không khen ngợi ngôn ngữ này, chê bai ngôn ngữ khác
