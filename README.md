@@ -69,7 +69,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Visitor Count
-[![](https://visitcount.itsvg.in/api?id=BachBeastCE&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=BachbeastCE&color=blue&style=flat)
+
 
 ### 😂 05 Quy Luật Bất Biến Của Lập Trình Viên Trong Dòng Chảy Thời Đại
 
