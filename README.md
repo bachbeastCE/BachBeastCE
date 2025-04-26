@@ -56,7 +56,7 @@
 ###
 
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=BachBeastCE&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BachBeastCE&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BachBeastCE&theme=radical&hide_border=false)
@@ -69,21 +69,35 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Visitor Count
+[![](https://visitcount.itsvg.in/api?id=BachBeastCE&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+### 😂 05 Quy Luật Bất Biến Của Lập Trình Viên Trong Dòng Chảy Thời Đại
 
-### 😂05 quy luật của lập trình viên được cho là bất biến trong dòng chảy thời đại:
-## #01: Dev phải thoát mình ra khỏi động cơ truy cầu danh lợi
-## #02: Dev phải tu tâm dưỡng tánh, bỏ thói cao ngạo
-## #03: Dev phải tự tiết chế, không khen ngợi ngôn ngữ này, chê bai ngôn ngữ khác
-## #04: Dev không được cho kỹ thuật lập trình của mình là tiêu chuẩn, là thước đo, rồi hạ thấp người khác
-## #05: Dev phải lấy tâm mình làm giải thuật, lấy trái tim và khối óc để viết code cho vững. Hãy mặc giáp của sự bảo mật, lấy logic làm nịt lưng, dùng sự sẵn sàng học ngôn ngữ mới mà làm giày dép.
-## Đặc biệt :
-## Khi ngồi code không rung chân
-## Khi đứng không rung quần
-## Nghỉ việc không cúi đầu
-## Khi nói không lộ lưỡi
-## Tất các giải thuật trên đời này đều hết sức mỏng manh, không có gì là chắc chắn hết. Chẳng có phần mềm nào vĩnh viễn không bị tấn công, cái gì được code sẽ trở thành code.
+#### #01: Dev phải thoát mình ra khỏi động cơ truy cầu danh lợi.
+
+#### #02: Dev phải tu tâm dưỡng tánh, bỏ thói cao ngạo.
+
+#### #03: Dev phải tự tiết chế, không khen ngợi ngôn ngữ này, chê bai ngôn ngữ khác.
+
+#### #04: Dev không được lấy kỹ thuật của mình làm tiêu chuẩn để hạ thấp người khác.
+
+#### #05: Dev phải lấy tâm mình làm giải thuật, lấy trái tim và khối óc để viết code cho vững.  
+Hãy mặc giáp của sự bảo mật, lấy logic làm nịt lưng, dùng sự sẵn sàng học ngôn ngữ mới mà làm giày dép.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BachBeastCE&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🧘 Đặc biệt:
+
+- Khi ngồi code, **không rung chân**.
+- Khi đứng, **không rung quần**.
+- Nghỉ việc, **không cúi đầu**.
+- Khi nói, **không lộ lưỡi**.
+
+> **Ghi nhớ:**  
+> Tất cả các giải thuật trên đời này đều hết sức mong manh, không có gì là chắc chắn.  
+> Chẳng có phần mềm nào vĩnh viễn không bị tấn công.  
+> Cái gì được code, sẽ trở thành code.
+
+
+---
+
